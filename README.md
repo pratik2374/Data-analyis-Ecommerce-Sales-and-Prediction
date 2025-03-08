@@ -62,31 +62,31 @@ This project analyzes e-commerce sales data through various visualizations and i
 
 #### Daily Orders Trend
 The number of daily orders fluctuates, with noticeable peaks and troughs over different months. There are variations across weeks, indicating demand shifts.
-![Daily Orders Trend](/images/dailyorders.png)
+![Daily Orders Trend](Iimages/dailyorders.png)
 
 #### Heatmap Analysis
 A correlation heatmap was generated to identify relationships between different variables. Key insights show strong dependencies between order counts and time-related factors.
-![Heatmap Analysis](/images/heatmap.png)
+![Heatmap Analysis](Images/heatmap.png)
 
 #### Monthly Order Counts
 Orders peak in specific months, particularly at the end of the year, likely due to holiday seasons and promotions. There is a significant variation in demand across different months.
-![Monthly Order Counts](/images/monthlyorder.png)
+![Monthly Order Counts](Images/monthlyorder.png)
 
 #### Most Common Customers
 The most frequent customers placed thousands of orders, with the highest reaching over 17,841 transactions. The top 10 customers significantly contribute to total sales.
-![Most Common Customers](/images/MostCommonCustomer.png)
+![Most Common Customers](Images/MostCommonCustomer.png)
 
 #### Top 10 Countries with Highest Transactions
 The dataset highlights countries that contribute the most to transactions. Some countries dominate in terms of the number of orders.
-![Top 10 Countries with Highest Transactions](/images/Top10Country.png)
+![Top 10 Countries with Highest Transactions](Images/Top10Country.png)
 
 #### Top 10 Best-Selling Products
 Certain products are consistently the most sold, driving revenue and demand. The top products exceed 100,000 sales, showcasing their popularity.
-![Top 10 Best-Selling Products](/images/Top10products.png)
+![Top 10 Best-Selling Products](Images/Top10products.png)
 
 #### Weekly Order Distribution
 Weekly order trends show fluctuations, with some periods experiencing spikes. Understanding these patterns helps in inventory and supply chain management.
-![Weekly Order Distribution](/images/weeklyOredres.png)
+![Weekly Order Distribution](Images/weeklyOredres.png)
 
 This analysis provides a data-driven approach to understanding e-commerce sales patterns. The insights can help in improving business strategies, optimizing product stock, and enhancing customer retention.
 
