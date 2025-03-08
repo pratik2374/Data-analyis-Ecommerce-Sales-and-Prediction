@@ -55,7 +55,7 @@ Different machine learning models were evaluated based on their fitting time. So
 | Lasso Regression          | 93.8     | 21.59                                | 18.09                                   | 0.84     |
 | Gradient Boosting Regressor | 24     | 18.80                                | 13.87                                   | 0.38     |
 
-![Model Comparision](/images/modelCompariosn.png)
+![Model Comparision](images/modelCompariosn.png)
 
 ## Visualization & Reports
 This project analyzes e-commerce sales data through various visualizations and insights, helping to understand trends in customer behavior, product demand, and regional transactions.
