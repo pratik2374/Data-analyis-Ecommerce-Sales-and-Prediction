@@ -62,7 +62,7 @@ This project analyzes e-commerce sales data through various visualizations and i
 
 #### Daily Orders Trend
 The number of daily orders fluctuates, with noticeable peaks and troughs over different months. There are variations across weeks, indicating demand shifts.
-![Daily Orders Trend](Iimages/dailyorders.png)
+![Daily Orders Trend](Images/dailyorders.png)
 
 #### Heatmap Analysis
 A correlation heatmap was generated to identify relationships between different variables. Key insights show strong dependencies between order counts and time-related factors.
